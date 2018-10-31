@@ -1,6 +1,8 @@
 package org.simple.clinic.login.applock
 
 import org.junit.Test
+import org.simple.clinic.security.BCryptPasswordHasher
+import org.simple.clinic.security.ComparisonResult
 
 class BCryptPasswordHasherTest {
 
